@@ -17,7 +17,7 @@ Skaterのためのスポット紹介・交流サイト
 スケーボーのトリック撮影を行う時に、どんなスポットがあるのか調べたり自分が知っているスポットを共有したい時に使用する
 
 ## 設計書
-file:///Users/inadadaichirou/Desktop/%E3%83%9B%E3%82%9A%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AARoadtoSkate.html
+https://drive.google.com/file/d/1Mx7oqeslz6GeBibawUjTHwaAd5rfctjb/view?usp=sharing
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
