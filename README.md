@@ -20,7 +20,7 @@ Skaterのためのスポット紹介・交流サイト
 ER図 https://drive.google.com/file/d/1Mx7oqeslz6GeBibawUjTHwaAd5rfctjb/view?usp=sharing
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1hTDPbE6mz8zvAQtE5XE4w3wgX70RySeLhjxYgw-yAjw/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
