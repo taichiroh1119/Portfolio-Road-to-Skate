@@ -17,7 +17,7 @@ Skaterのためのスポット紹介・交流サイト
 スケーボーのトリック撮影を行う時に、どんなスポットがあるのか調べたり自分が知っているスポットを共有したい時に使用する
 
 ## 設計書
-ポートフォリオRoadtoSkate.pdf
+ER図　ポートフォリオRoadtoSkate.pdf![image](https://user-images.githubusercontent.com/78382581/116941489-bd94de80-acaa-11eb-85ea-7848d7b83879.png)
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
